@@ -7,22 +7,22 @@ Ele simula o funcionamento de um sistema real de atendimento (como em bancos, ho
 
 ## Funcionalidades
 
-✅ Cadastro de pessoas na fila, com prioridade baseada na idade:
+Cadastro de pessoas na fila, com prioridade baseada na idade:
 - **80 anos ou mais:** prioridade máxima  
 - **65 a 79 anos:** prioridade intermediária  
 - **Abaixo de 65 anos:** sem prioridade  
 
-✅ Controle de múltiplos **guichês de atendimento**
+Controle de múltiplos **guichês de atendimento**
 
-✅ Regras de prioridade:
+Regras de prioridade:
 - São atendidas **duas pessoas prioritárias** seguidas de **uma sem prioridade**  
 - O sistema exibe qual pessoa deve ir a qual guichê  
 
-✅ Exibição da fila atual e do status dos guichês
+Exibição da fila atual e do status dos guichês
 
-✅ Liberação de guichês após atendimento
+Liberação de guichês após atendimento
 
-✅ Menu interativo no terminal
+Menu interativo no terminal
 
 ---
 
